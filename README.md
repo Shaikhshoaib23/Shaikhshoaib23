@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Shaikhshoaib23
 - 👀 I’m interested in everything related to web development.
-- 🌱 I’m currently learning many new everything the community has to offer.
+- 🌱 I’m currently learning NextJs,ReactJs,AngularJs.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Shaikh.shoaib2345@gmail.com
+- 
 
 <!---
 Shaikhshoaib23/Shaikhshoaib23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
