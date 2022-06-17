@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to web development.
 - 🌱 I’m currently learning NextJs,ReactJs,AngularJs.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Shaikh.shoaib2345@gmail.com
+- 📫 How to reach me? Shaikh.shoaib2345@gmail.com
 - I ❤️ seeing various concepts shown in websites.
 
 <!---
